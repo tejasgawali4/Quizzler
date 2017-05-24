@@ -88,7 +88,4 @@ public class MainActivity extends AppCompatActivity {
     }
 
     // TODO: Add the play methods triggered by the buttons
-
-
-
 }
